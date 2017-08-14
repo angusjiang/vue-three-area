@@ -43,7 +43,9 @@
   },
   "keywords": [
     "vue",
-    "plugin"
+    "area"
+    "plugin",
+    "three"
   ],
   "author": "AngusJiang",
   "license": "ISC",
