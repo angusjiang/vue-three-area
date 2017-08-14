@@ -141,6 +141,9 @@
           return document.getElementById(ele);
         },
         _getValue(ele) {
+          if (this._getElement(ele).selectedIndex < 0) {
+            return;
+          } else
           return this._getElement(ele).options[this._getElement(ele).selectedIndex].text;
         },
         _dispatch(name, res) {
