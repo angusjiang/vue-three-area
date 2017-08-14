@@ -43,7 +43,8 @@
   },
   "keywords": [
     "vue",
-    "area"
+    "area",
+    "select",
     "plugin",
     "three"
   ],
