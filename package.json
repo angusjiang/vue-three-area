@@ -1,6 +1,6 @@
 {
   "name": "vue-three-area",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a vue plgin for vue-three-area",
   "main": "dist/area.vue",
   "dependencies": {
