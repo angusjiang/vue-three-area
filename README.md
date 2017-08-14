@@ -22,10 +22,8 @@ import VueThreeArea from 'vue-three-area'
 export default{
   data() {
     return {
-      counter: 0,
-      total: 0,
       placeholers: '选择省,选择市,选择区',
-      selectModule: 'every',
+      selectModule: 'every', //只有二种，一种是every,一种是single,默认every
     }
   },
   components: {
